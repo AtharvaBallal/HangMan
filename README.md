@@ -1,2 +1,2 @@
-Its a Python game called Hangman. User needs to guess the word in 6 attempts.<br><br>
-Auther: Atharva Ballal.
+It is a Python game called Hangman. The user needs to guess the word in 6 attempts.<br><br>
+Author: Atharva Ballal.
